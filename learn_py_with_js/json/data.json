@@ -1,0 +1,10 @@
+{
+  "name": "data",
+  "version": "1.0.0",
+  "description": "data.json",
+  "main": "data.json",
+  "author": "py-study",
+  "license": "ISC",
+  "port": 8000,
+  "test": "ÎÒ°®ÄãÖĞ¹ú"
+}
