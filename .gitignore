@@ -22,3 +22,5 @@ tests/**/coverage/
 tsconfig.tsbuildinfo
 
 .idea
+
+__pycache__

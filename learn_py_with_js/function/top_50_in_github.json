@@ -1,0 +1,72 @@
+[
+    {
+        "name": "nautechsystems/nautilus_trader",
+        "desc": "A high-performance algorithmic trading platform and event-driven backtester",
+        "link": "https://github.com/nautechsystems/nautilus_trader"
+    },
+    {
+        "name": "browserbase/stagehand",
+        "desc": "The AI Browser Automation Framework",
+        "link": "https://github.com/browserbase/stagehand"
+    },
+    {
+        "name": "lvgl/lvgl",
+        "desc": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+        "link": "https://github.com/lvgl/lvgl"
+    },
+    {
+        "name": "vllm-project/vllm",
+        "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+        "link": "https://github.com/vllm-project/vllm"
+    },
+    {
+        "name": "ollama/ollama",
+        "desc": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+        "link": "https://github.com/ollama/ollama"
+    },
+    {
+        "name": "netbirdio/netbird",
+        "desc": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+        "link": "https://github.com/netbirdio/netbird"
+    },
+    {
+        "name": "jesseduffield/lazygit",
+        "desc": "simple terminal UI for git commands",
+        "link": "https://github.com/jesseduffield/lazygit"
+    },
+    {
+        "name": "ethereum/solidity",
+        "desc": "Solidity, the Smart Contract Programming Language",
+        "link": "https://github.com/ethereum/solidity"
+    },
+    {
+        "name": "simstudioai/sim",
+        "desc": "Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
+        "link": "https://github.com/simstudioai/sim"
+    },
+    {
+        "name": "openai/openai-cookbook",
+        "desc": "Examples and guides for using the OpenAI API",
+        "link": "https://github.com/openai/openai-cookbook"
+    },
+    {
+        "name": "prisma/prisma",
+        "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+        "link": "https://github.com/prisma/prisma"
+    },
+    {
+        "name": "xiaoyaocz/dart_simple_live",
+        "desc": "简简单单的看直播",
+        "link": "https://github.com/xiaoyaocz/dart_simple_live"
+    },
+    {
+        "name": "datawhalechina/self-llm",
+        "desc": "《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程",
+        "link": "https://github.com/datawhalechina/self-llm"
+    },
+    {
+        "name": "dotnet/efcore",
+        "desc": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+        "link": "https://github.com/dotnet/efcore"
+    }
+]
